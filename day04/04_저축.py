@@ -6,7 +6,6 @@ money = start
 month = 1
 while money < 70:
     money += before
-
     month += 1
 while money < 100:
         money += after
